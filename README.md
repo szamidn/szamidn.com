@@ -1,2 +1,2 @@
 # szamidn.com
-Initial push.
+Initial push. 2nd try.
