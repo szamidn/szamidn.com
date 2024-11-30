@@ -1,1 +1,2 @@
 # szamidn.com
+Initial push.
