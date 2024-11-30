@@ -11,8 +11,7 @@ export function Eclipse() {
   return (
     <div
       key={pathname}
-      className="absolute w-screen top-0 left-0 right-0 z-10 pointer-events-none"
-      style={{ height: "100dvh" }}
+      className="absolute w-screen top-0 left-0 right-0 z-10 pointer-events-none h-auto"
     >
       <Animate blur={8} duration={800} ease="out">
         <Image
