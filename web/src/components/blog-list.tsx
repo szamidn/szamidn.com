@@ -17,9 +17,7 @@ const BlogList = ({ posts }: BlogListProps) => {
   return (
     <div className="container">
       <div className="flex items-start justify-start gap-2 mb-8">
-        <h2 className="text-5xl font-medium font-display text-white">
-          All articles
-        </h2>
+        <h2 className="text-5xl font-medium font-display text-white">Blogs</h2>
         <p className="text-neutral-500 tabular-nums text-sm">{posts.length}</p>
       </div>
 

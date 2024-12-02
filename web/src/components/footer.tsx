@@ -41,9 +41,7 @@ export const Footer = () => {
             <h2 className="text-5xl font-display font-medium text-white">
               szami
             </h2>
-            <p className="text-neutral-400">
-              Full time developer making the web better
-            </p>
+            <p className="text-neutral-400">Tech + art</p>
             <div className="flex gap-4 text-neutral-400">
               <Link
                 href="https://x.com/szamidn"

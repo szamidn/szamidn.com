@@ -32,7 +32,7 @@ export default function Home() {
         <section className="container mx-auto px-4 mb-16 md:mb-32">
           <div className="flex items-start justify-start gap-2 mb-8">
             <h2 className="text-5xl font-medium font-display text-white">
-              Lab Experiments
+              Lab (trying small things)
             </h2>
             <p className="text-neutral-500 tabular-nums text-sm">
               {labProjects.length}

@@ -7,7 +7,7 @@ export default function BlogPage() {
     <div className="w-screen min-h-screen bg-neutral-900 overflow-hidden">
       <Eclipse />
 
-      <div className="w-screen h-32 lg:h-48" />
+      <div className="w-screen h-32 md:h-48 lg:h-72" />
 
       <main>
         <section className="container mx-auto px-4 mb-16 md:mb-32">
